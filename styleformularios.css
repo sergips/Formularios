@@ -1,9 +1,9 @@
 body {
-  padding-top: 100px;
+  padding-top: 5px;
 }
-.login-form{width: 100px}
+.login-form{width: 5px}
 .login-title{font-family: 'Correo electronico', sans-serif;text-align:center;color: rgb(77, 67, 67);}
-.login-userinput{margin-bottom: 10px;}
-.login-button{margin-top:10px;}
+.login-userinput{margin-bottom: 5px;}
+.login-button{margin-top:5px;}
 .login-options{margin-bottom:0px;}
 .login-forgot{float: up;}
