@@ -1,14 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Exo:400,500,500italic,400italic,600,600italic,700,700italic,800,800italic,300,300italic);
-
 body {
-  padding-top: 250px;
-	/*El fondo de abajo es solo para agregar algo de color, puede configurarlo en cualquier cosa*/
-  background: url(http://www.magic4walls.com/wp-content/uploads/2014/01/texture-blue-fonchik-simple-dark-colors-glow-background.jpg) no-repeat;
+  padding-top: 100px;
 }
-
-.login-form{width:390px;}
-.login-title{font-family: 'Exo', sans-serif;text-align:center;color: white;}
+.login-form{width: 100px}
+.login-title{font-family: 'Correo electronico', sans-serif;text-align:center;color: rgb(77, 67, 67);}
 .login-userinput{margin-bottom: 10px;}
 .login-button{margin-top:10px;}
 .login-options{margin-bottom:0px;}
-.login-forgot{float: right;}
+.login-forgot{float: up;}
